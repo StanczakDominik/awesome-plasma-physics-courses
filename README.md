@@ -42,3 +42,7 @@ This list is an attempt to collect great plasma physics and fusion courses which
 
 - [553 Plasma Waves and Instabilities](http://www.princeton.edu/~idodin/ast.htm) - Princeton (2017).
 	- Hydrodynamic and kinetic models of nonmagnetized and magnetized plasma dispersion; basic plasma waves and their applications; basic instabilities; mechanisms of collisionless dissipation; geometrics-optics approximation, including ray tracing, field-theoretical description of continuous waves, and ponderomotive effects; conservation laws and transport equations for the wave action, energy, and momentum; mode conversion; quasilinear theory.
+
+## Fusion
+- [Fusion Research Lecture](https://www.youtube.com/playlist?list=PL9F2aQG5CnOdw9MXqS309tojBUvChQ9jm).
+	- Goes through applications of plasma physics to magnetic confinement fusion in tokamaks and stellarators. To quote: "This lecture is usually given as a classical blackboard lecture at the University of Stuttgart. Due to the current situation (Corona-virus), the lecture has to be given completely online. The videos shown here are small modifications of the videos actually used in the lecture (mostly copyright issues).". By Alf Köhn-Seemann.
